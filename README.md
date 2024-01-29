@@ -6,7 +6,7 @@ Bienvenido a mi repositorio de CV. Aquí encontrarás todos los detalles emocion
 
 ## Contáctame 📬
 
-¡Estoy abierto a nuevas oportunidades, colaboraciones y memes divertidos! Si quieres hablar sobre trabajo, tecnología o cuál es el mejor superhéroe, no dudes en contactarme.
+¡Estoy abierto a nuevas oportunidades, colaboraciones y memes divertidos! Si quieres hablar sobre trabajo, tecnología o cuál es el mejor superhéroe, no dudes en contactarme. Link: https://darwinqp.github.io/Darwinqp_CV/
 
 ¡Gracias por pasar por aquí y espero que encuentres mi CV tan emocionante como un episodio de tu serie favorita!
 
